@@ -1,0 +1,6 @@
+framework module Pods_cbana18 {
+  umbrella header "Pods-cbana18-umbrella.h"
+
+  export *
+  module * { export * }
+}
